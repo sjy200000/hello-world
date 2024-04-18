@@ -1,2 +1,5 @@
 # hello-world
-for lab 1 week 14 of CS 3377
+
+Hello everyone!
+
+My name is Sutter I am a student at UT Dallas studying for computer science. I love video games and want to become a game devolper!
